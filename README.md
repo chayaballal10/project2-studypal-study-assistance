@@ -1,1 +1,1 @@
-# project2-studypal-study-assistance
+# project-2-studypal-study-assistant
